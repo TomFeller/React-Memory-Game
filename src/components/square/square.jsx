@@ -19,7 +19,7 @@ const Square = (props) => {
 
             {Icon && <div className={'mark'}><Icon size={23}/></div>}
 
-            {index + 1}
+            {/*{index + 1}*/}
         </SquareStyle>
     )
 };

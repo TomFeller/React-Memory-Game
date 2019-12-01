@@ -56,7 +56,6 @@ const GameBoard = (props) => {
             const success = successIndexes.some(index => index === i);
             const wrong = wrongIndexes.some(index => index === i);
             const active = tempIndex === i;
-            console.log('theme', theme)
             return (
                 <Square key={i}
                         index={i}
