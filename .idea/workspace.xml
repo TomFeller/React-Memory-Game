@@ -2,11 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65a03896-7cb1-485d-bedb-812d69a942a0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/data/animals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/data/flags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form/choose-level.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form/choose-theme.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/form/form-style.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/alligator.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/bees.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/bird.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/bird_colors.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/birdey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/birds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/buffalo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/butterflies.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/camel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/cheep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/cheetah.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/combo_dragons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/cow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/deer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/deer_forest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/deer_white.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/duck.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/eagle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/elephants.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/fox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/giraffe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/goat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/goats.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/horse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/jackal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/jellyfish.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/jellyfishes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/jirafs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/lion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/lizard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/monkey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/monkey_baby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/parakeets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/parrot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/pig.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/pony.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/rabit_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/rooster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/sealion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/sharks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/snow_dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/squirrel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/tiger.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/tiger_sleep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/turtle.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/two_birds.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/whale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/animals/zebra.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/argentina.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/brazil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/bulgaria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/costa_rica.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/cote_d_ivoire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/cyprus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/denmark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/dominican_republic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/guinea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/honduras.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/india.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/ireland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/israel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/italy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/jamaica.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/japan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/kazakhstan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/kenya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/lebanon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/liberia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/luxembourg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/malaysia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/mexico.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/mongolia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/montenegro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/morocco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/netherlands.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/new_zealand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/norway.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/panama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/peru.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/portugal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/romania.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/russia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/senegal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/serbia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/slovakia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/slovenia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/south_korea.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/spain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/suriname.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/swaziland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/sweden.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/switzerland.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/tajikistan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/tanzania.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/turkey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/uruguay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/usa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/flags/venezuela.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/board/game-board-style.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board/game-board-style.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/board/game-board.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/board/game-board.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data/colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form/starter-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form/starter-form.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/square/square-style.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/square/square-style.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/square/square.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/square/square.jsx" afterDir="false" />
     </list>
@@ -21,93 +130,129 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="starter-form.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/form/starter-form.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="game-board.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/board/game-board.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="60" column="100" selection-start-line="60" selection-start-column="100" selection-end-line="60" selection-end-column="100" />
-              <folding>
-                <element signature="e#493#736#0" />
-                <element signature="e#792#1282#0" />
-                <element signature="e#1323#1392#0" />
-                <element signature="e#1424#1678#0" />
-                <element signature="e#2571#2688#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="square.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/square/square.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/colors.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3020">
-              <caret line="151" column="8" selection-start-line="151" selection-start-column="8" selection-end-line="151" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="square-style.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/square/square-style.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="game-board-style.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/board/game-board-style.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.74384236">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/App.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="11" column="31" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="31" />
+                  <folding>
+                    <element signature="e#0#38#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="starter-form.jsx" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/form/starter-form.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+                  <folding>
+                    <element signature="e#0#38#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="flags.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/data/flags.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1080">
+                  <caret line="54" column="102" selection-start-line="54" selection-start-column="102" selection-end-line="54" selection-end-column="102" />
+                  <folding>
+                    <element signature="e#0#57#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="animals.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/data/animals.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="choose-theme.jsx" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/form/choose-theme.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="160">
+                  <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="choose-level.jsx" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/form/choose-level.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="20">
+                  <caret line="1" column="23" selection-start-line="1" selection-end-line="2" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="game-board.jsx" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/board/game-board.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="392">
+                  <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#0#49#0" expanded="true" />
+                    <element signature="e#613#942#0" />
+                    <element signature="e#991#1480#0" />
+                    <element signature="e#1521#1594#0" />
+                    <element signature="e#1625#1879#0" />
+                    <element signature="e#1920#2826#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="game-board-style.jsx" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/board/game-board-style.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="160">
+                  <caret line="8" column="19" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="square.jsx" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/square/square.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="320">
+                  <caret line="16" column="37" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="37" />
+                  <folding>
+                    <element signature="e#0#38#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="flags.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/data/flags.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="400">
+                  <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+                  <folding>
+                    <element signature="e#0#57#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -122,28 +267,50 @@
       <find>handleSquareClick</find>
       <find>setSuccessSquares</find>
       <find>c</find>
+      <find>squareSize</find>
+      <find>vw</find>
+      <find>boardSize</find>
+      <find>'../../images/animals</find>
+      <find>.jpg</find>
+      <find>buffalo</find>
+      <find>kenya</find>
     </findStrings>
     <replaceStrings>
       <replace>.app</replace>
+      <replace>%</replace>
+      <replace>`${root}</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="phase-1" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/form/starter-form.js" />
         <option value="$PROJECT_DIR$/src/form/starter-form.jsx" />
         <option value="$PROJECT_DIR$/src/board/game-goard.js" />
         <option value="$PROJECT_DIR$/src/components/game-board-style.js" />
-        <option value="$PROJECT_DIR$/src/components/board/game-board-style.jsx" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/form/starter-form.jsx" />
+        <option value="$PROJECT_DIR$/src/components/form/choose-level.js" />
         <option value="$PROJECT_DIR$/src/components/colors.js" />
-        <option value="$PROJECT_DIR$/src/components/square/square-style.jsx" />
+        <option value="$PROJECT_DIR$/src/components/data/colors.js" />
         <option value="$PROJECT_DIR$/src/components/square/square.jsx" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/components/form/form-style.js" />
+        <option value="$PROJECT_DIR$/src/components/square/square-style.jsx" />
+        <option value="$PROJECT_DIR$/src/components/form/form-style.jsx" />
+        <option value="$PROJECT_DIR$/src/components/form/choose-level.jsx" />
+        <option value="$PROJECT_DIR$/src/components/board/game-board-style.jsx" />
+        <option value="$PROJECT_DIR$/src/components/data/animals.js" />
+        <option value="$PROJECT_DIR$/src/components/form/starter-form.jsx" />
+        <option value="$PROJECT_DIR$/src/components/data/flags.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/form/choose-theme.jsx" />
         <option value="$PROJECT_DIR$/src/components/board/game-board.jsx" />
       </list>
     </option>
@@ -206,7 +373,27 @@
               <item name="React-Memory-Game" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="square" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React-Memory-Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React-Memory-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React-Memory-Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React-Memory-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React-Memory-Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React-Memory-Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="flags" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,6 +403,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="sq&#9;FILE&#9;file://C:/Users/tfell/Documents/GitHub/React-Memory-Game/src/components/square/square.jsx&#10;app&#9;FILE&#9;file://C:/Users/tfell/Documents/GitHub/React-Memory-Game/src/App.css" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -230,13 +418,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\tfell\WebstormProjects\memory-game\src\components\square" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tfell\Documents\GitHub\React-Memory-Game\src\components\data" />
       <recent name="C:\Users\tfell\WebstormProjects\memory-game\src\components\board" />
       <recent name="C:\Users\tfell\WebstormProjects\memory-game\src\components" />
       <recent name="C:\Users\tfell\WebstormProjects\memory-game\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tfell\Documents\GitHub\React-Memory-Game\src\components\data" />
+      <recent name="C:\Users\tfell\Documents\GitHub\React-Memory-Game\src\components\form" />
+      <recent name="C:\Users\tfell\WebstormProjects\memory-game\src\components\square" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -278,18 +469,33 @@
       <workItem from="1575188262798" duration="2305000" />
       <workItem from="1575197573885" duration="1779000" />
       <workItem from="1575199407863" duration="1781000" />
-      <workItem from="1575201212076" duration="833000" />
+      <workItem from="1575201212076" duration="1784000" />
+      <workItem from="1575203018750" duration="1784000" />
+      <workItem from="1575204826507" duration="1957000" />
+      <workItem from="1575206812334" duration="1784000" />
+      <workItem from="1575208627026" duration="2022000" />
+      <workItem from="1575210679598" duration="1779000" />
+      <workItem from="1575212491372" duration="1629000" />
+      <workItem from="1575214299966" duration="1101000" />
     </task>
+    <task id="LOCAL-00001" summary="phase 1">
+      <created>1575202151456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575202151456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25580000" />
+    <option name="totallyTimeSpent" value="38587000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25131717" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -297,7 +503,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35620916" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15250544" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -315,59 +521,34 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="phase 1" />
+    <MESSAGE value="Add animals images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add animals images" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/board/game-board.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/form/starter-form.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/square/square.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="71" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="71" />
+        <state relative-caret-position="40">
+          <caret line="2" column="26" selection-start-line="2" selection-end-line="3" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/colors.js">
+    <entry file="file://$PROJECT_DIR$/src/components/data/flags.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2567">
-          <caret line="151" column="8" lean-forward="true" selection-start-line="151" selection-start-column="8" selection-end-line="151" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/square/square-style.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        <state relative-caret-position="40">
+          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -441,9 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -468,9 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -523,9 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,9 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,30 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/colors.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3020">
-          <caret line="151" column="8" selection-start-line="151" selection-start-column="8" selection-end-line="151" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
@@ -674,24 +819,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/data/colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2960">
+          <caret line="148" column="18" selection-start-line="148" selection-start-column="18" selection-end-line="148" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/form/form-style.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/square/square-style.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="200">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/board/game-board-style.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="160">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/square/square.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="320">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="37" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -700,21 +876,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/form/starter-form.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="330">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/data/animals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="58" column="16" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/data/flags.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="54" column="102" selection-start-line="54" selection-start-column="102" selection-end-line="54" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/form/choose-theme.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/form/choose-level.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="23" selection-start-line="1" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/board/game-board.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="60" column="100" selection-start-line="60" selection-start-column="100" selection-end-line="60" selection-end-column="100" />
+        <state relative-caret-position="392">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="4" />
           <folding>
-            <element signature="e#493#736#0" />
-            <element signature="e#792#1282#0" />
-            <element signature="e#1323#1392#0" />
-            <element signature="e#1424#1678#0" />
-            <element signature="e#2571#2688#0" />
+            <element signature="e#0#49#0" expanded="true" />
+            <element signature="e#613#942#0" />
+            <element signature="e#991#1480#0" />
+            <element signature="e#1521#1594#0" />
+            <element signature="e#1625#1879#0" />
+            <element signature="e#1920#2826#0" />
           </folding>
         </state>
       </provider>

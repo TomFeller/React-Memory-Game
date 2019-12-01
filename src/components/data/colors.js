@@ -148,5 +148,4 @@ const COLORS = [
     "Yellow",
     "YellowGreen",
 ];
-
-export {COLORS};
+ export {COLORS};
